@@ -6,11 +6,6 @@ performed by [@dimbots](http://github.com/dimbots) using the [SUPERSMART](http:/
 pipeline. Here now follows a brief explanation of the files and the subfolders:
 
 
-#### results
-
-Contains trees (and other results). The subfolders below this level each contain
-the summarized results of a SUPERSMART run. 
-
 File description:
 
 - `workflow.sh` - a shell script that has all the steps taken to arrive at the 
@@ -52,7 +47,4 @@ was not used. A comment file will also exist in the directory indicating that th
 - `mammals_phylogeny.nex` - The complete mammalian phylogeny in nexus format.
 
 
-#### benchmark_trees
 
-Contains in every subdirectory a published paper describing the phylogeny of the related
-taxonomic group.These benchmark trees shall be compared with the results from SUPERSMART pipeline. 
